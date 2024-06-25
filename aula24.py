@@ -22,9 +22,12 @@ if encontrar in nome:
 else:
     print(f'{encontrar} não está em {nome} ') 
 
-#variavel_a = 1 or 0
-#variavel_b = 0 or 1
-#print(variavel_a, variavel_a)
+variavel_a = 1 or 0
+variavel_b = 0 or 1
+print(variavel_a, variavel_a)
+
+# É possivel adicionar um if dentro de outro fazendo varias
+# condições aninhadas.
 numero = 10
  
 if numero > 1:
