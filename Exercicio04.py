@@ -1,3 +1,9 @@
+"""
+Faça um programa que pergunte a hora ao
+usuário e, baseando-se no horário descrito,
+exiba a saudação apropriada. Ex.
+Bom dia 0-11, Boa tarde 12-17, Boa noite 18-23
+"""
 horario = input('Olá, qual seu horário? ')
 
 try:
